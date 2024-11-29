@@ -22,7 +22,6 @@ A modern full-stack admin dashboard application built using the MERN stack, desi
 - **Frontend**: React.js, Material-UI, Redux
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **State Management**: React Redux
 - **Styling**: Material-UI
 
 ## Installation and Setup
